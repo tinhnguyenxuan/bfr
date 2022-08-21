@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://me.momo.vn/4GIEuasJuVFqFgCdCjTQ/y1aK86jr0oplbQG";
+            window.location = "https://me.momo.vn/4GIEuasJuVFqFgCdCjTQ/lNbWP8ZmDwP4dyg";
           },
         });
       }
